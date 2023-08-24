@@ -27,9 +27,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 React Quiz <a name="about-project"></a>
+# 📖 Worldwise <a name="about-project"></a>
 
-**[React Quiz]** is a quiz application built using useReducer hook.
+**[Worldwise]** is an application which shows information about countries and cities individuals have been to over the course of a period of time.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -46,7 +46,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **useReducer Hooks**
+- **React Router v6**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -81,7 +81,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Efiamotu-1/react-quiz.git
+  git clone https://github.com/Efiamotu-1/worldwise.git
 ```
 
 ### Install
@@ -91,7 +91,7 @@ Install this project with:
 Example command:
 
 ```sh
-  cd react-quiz
+  cd worldwise
   npm install
 ```
 
@@ -133,7 +133,7 @@ Example command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Efiamotu-1/react-quiz/issues).
+Feel free to check the [issues page](https://github.com/Efiamotu-1/worldwise/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
