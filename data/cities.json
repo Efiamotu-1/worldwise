@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Nijar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-04-03T07:47:59.202Z",
+      "notes": "",
+      "position": {
+        "lat": "36.967508314568164",
+        "lng": "-2.13128394200588"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Lagos",
+      "country": "Nigeria",
+      "emoji": "🇳🇬",
+      "date": "2023-09-01T11:38:50.766Z",
+      "notes": "Amazing City",
+      "position": {
+        "lat": "6.424483546180726",
+        "lng": "3.2080078125000004"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Kuje",
+      "country": "Nigeria",
+      "emoji": "🇳🇬",
+      "date": "2023-09-01T12:03:00.318Z",
+      "notes": "e just dey",
+      "position": {
+        "lat": "8.754794702435618",
+        "lng": "7.229003906250001"
+      },
+      "id": 98443200
+    }
+  ]
+}
